@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<applications>
+  <application id="8">
+    <company>Alibaba Kebab</company>
+    <position>Kebabsmører</position>
+    <applied>010101</applied>
+    <duedate>010101</duedate>
+    <followup>010101</followup>
+    <status>Application dead</status>
+    <notes>asdf	</notes>
+    <files/>
+  </application>
+  <application id="3">
+    <company>Bergen Kommune</company>
+    <position>Webrådgiver - IKT konsern</position>
+    <applied>040613</applied>
+    <duedate>220613</duedate>
+    <followup>100713</followup>
+    <status>Duedate reached</status>
+    <notes>De krever HTML/CSS, og noe interaksjonsdesign, samt høyere utdanning og erfaring med nettpublisering</notes>
+    <files/>
+  </application>
+  <application id="6">
+    <company>Helse Vest IKT AS</company>
+    <position>Spesialkonsulent Applikasjonsdrift</position>
+    <applied>290413</applied>
+    <duedate>010613</duedate>
+    <followup>230613</followup>
+    <status>Needs follow-up</status>
+    <notes>De krever høyere utdannelse og lang erfaring, høre med Erik H. om stillingen? Lite sannsynlig stilling</notes>
+    <files/>
+  </application>
+  <application id="7">
+    <company>It's Learning</company>
+    <position>Interaksjonsdesigner</position>
+    <applied>130513</applied>
+    <duedate>150613</duedate>
+    <followup>280613</followup>
+    <status>Application dead</status>
+    <notes>Gode muligheter, de som driver selskapet er selv fra UiB/HiB</notes>
+    <files/>
+  </application>
+  <application id="5">
+    <company>Peak Broadcast Systems</company>
+    <position>Technical Writer</position>
+    <applied>010513</applied>
+    <duedate>230513</duedate>
+    <followup>040613</followup>
+    <status>Needs follow-up</status>
+    <notes>Høre med P-K om denne? Har fått tilbakemelding, videre til runde to. Fått avbud, de har allerede ansatt noen, intern ansattelse</notes>
+    <files/>
+  </application>
+  <application id="4">
+    <company>Rainfall</company>
+    <position>Java utvikler (J2EE)</position>
+    <applied>020513</applied>
+    <duedate>270513</duedate>
+    <followup>180613</followup>
+    <status>Duedate reached</status>
+    <notes>Krever høyere utdanning, må ha god kjennskap til Java, dårlige utsikter</notes>
+    <files/>
+  </application>
+  <application id="2">
+    <company>Sixty.no</company>
+    <position>Interaction Designer</position>
+    <applied>010613</applied>
+    <duedate>210613</duedate>
+    <followup>030713</followup>
+    <status>Application sent</status>
+    <notes>Tips gjennom Stefan, han mente at kanskje jeg burde søke, gammel stilling</notes>
+    <files/>
+  </application>
+  <application id="1">
+    <company>Vizrt</company>
+    <position>XML Guru</position>
+    <applied>010613</applied>
+    <duedate>170613</duedate>
+    <followup>010713</followup>
+    <status>Application sent</status>
+    <notes>Tok sjansen på å sende en søknad til P-K, følge opp via mail på asdf@fdsa.no, tenkte å spørre han litt neste RPG</notes>
+    <files/>
+  </application>
+</applications>
