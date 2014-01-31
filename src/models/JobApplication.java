@@ -68,6 +68,10 @@ public class JobApplication {
 		this.files = files;
 	}
 	
+	/**
+	 * A method to add a given file to the files ArrayList<File>
+	 * @param file the file to add
+	 */
 	public void addFile(File file) {
 		files.add(file);
 	}
@@ -102,25 +106,6 @@ public class JobApplication {
 		} else {
 			return true;
 		}
-	}
-	
-	@Override
-	public String toString() {
-		DateFormat df = new SimpleDateFormat("ddmmyy");
-		String formattedDate = "";
-		String string = "";
-		string += "Company: " + this.company + "\n";
-		string += "Position: " + this.position + "\n";
-		formattedDate = df.format(applied);
-		string += "Applied: " + formattedDate + "\n";
-		formattedDate = df.format(duedate);
-		string += "Due-date: " + formattedDate + "\n";
-		formattedDate = df.format(followup);
-		string += "Follow-Up: " + formattedDate + "\n";
-		string += "Status: " + this.status + "\n";
-		string += "Notes: " + this.notes + "\n";
-		string += "Files: " + this.files + "\n";
-		return string;
 	}
 	
 	/**
@@ -310,7 +295,4 @@ public class JobApplication {
 	public void setFiles(List<File> files) {
 		this.files = files;
 	}
-	
-	
-	
 }
